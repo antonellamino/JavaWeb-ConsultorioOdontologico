@@ -7,7 +7,7 @@ La aplicación sigue el patrón **MVC (Modelo-Vista-Controlador)** para asegurar
 
 * **Backend:** Java EE (Jakarta EE) con **Servlets** para el control de la lógica de negocio.
 * **Persistencia:** **JPA (Java Persistence API)** con EclipseLink para el mapeo de objetos a una base de datos relacional.
-* **Frontend:** **JSP (JavaServer Pages)** y JSTL para la generación de interfaces dinámicas, integrando plantillas de Bootstrap para un diseño responsivo.
+* **Frontend:** **JSP (JavaServer Pages)** para la generación de interfaces dinámicas, integrando plantillas de Bootstrap para un diseño responsivo.
 * **Base de Datos:** MySQL / lógica de persistencia configurada mediante `persistence.xml`.
 
 ## 🛠️ Funcionalidades Principales
